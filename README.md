@@ -6,7 +6,7 @@ pytorch 0.4.1
 
 
 ## Reference
-Refer to code from https://github.com/Marsrocky/Emotiw-Engagement-Prediction
+Refers to code from [Deep recurrent multi-instance learning with spatio-temporal features for engagement intensity prediction](https://github.com/Marsrocky/Emotiw-Engagement-Prediction)
 
 `@inproceedings{yang2018deep,
   title={Deep recurrent multi-instance learning with spatio-temporal features for engagement intensity prediction},
@@ -15,3 +15,18 @@ Refer to code from https://github.com/Marsrocky/Emotiw-Engagement-Prediction
   pages={594--598},
   year={2018}
 }`
+
+## DAiSEE-Engagement-prediction
+1. get data [DAiSEE](https://1drv.ms/u/s!AlNr8dt6DdBheqERS3X2-KSUeeY?e=lrlTih)
+2. run 'OpenFaceDataset.py' to do data-propossing
+3. run 'train.py'
+parameters in 'OpenFaceDataset.py':
+'--case_id':
+'----clip_num':
+'--eye_gaze':
+'--head_pose':
+'--action_unit':
+
+## Emotiw-Engagement-Prediction-master
+
+## Visualization
