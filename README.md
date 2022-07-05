@@ -22,27 +22,6 @@ Refers to code from [Deep recurrent multi-instance learning with spatio-temporal
 2. run `OpenFaceDataset.py` to do data-propossing
 3. run `train.py`
 
-parameters in `OpenFaceDataset.py`:
-
-`--case_id`:
-
-`--clip_num`:
-
-`--eye_gaze`:
-
-`--head_pose`:
-
-`--action_unit`:
-
-parameters in `train.py`:
-
-`--feature_num`:
-
-`--model_name`:
-
-`--clip_num`:
-
-`--case_id`:
 
 ## Emotiw-Engagement-Prediction-master
 
